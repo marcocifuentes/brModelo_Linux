@@ -1,12 +1,5 @@
-## Este guia oferece o passo a passo para a instalação manual do brModelo em sistemas Linux, permitindo a criação de um atalho no menu de aplicativos e opcionalmente na área de trabalho. 
-*testado e validado em: Ubuntu 24 & Fedora 42*
-
----
-brModelo no Linux - criando atalho do programa 
----
 
 ## 🔧 Instalação via terminal(bash)
-
 ------------------------------------------------------------------------
 
 ## 1. Baixar o executável
